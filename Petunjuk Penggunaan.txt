@@ -1,0 +1,12 @@
+Save The Sea
+adalah game berbasis platform scratch.
+
+Cara Memainkan game "save the sea"
+1. Install Scracth Offline versi 2.0 di https://scratch.mit.edu/scratch2download/
+2. Install scracth memerlukan adobe air. jika belum terinstall, install adobe air di http://get.adobe.com/air/
+3. Buka aplikasi scracth offline 2
+4. Open Save The Sea.sb2
+5. mainkan game.
+
+atau secara online
+kunjungi https://scratch.mit.edu/projects/131990922/
